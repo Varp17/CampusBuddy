@@ -4,7 +4,7 @@ A comprehensive safety application for educational campuses with real-time SOS a
 
 ## 🚨 Overview
 
-Campus Safety App is a Flutter-based mobile application designed to enhance security and emergency response within educational institutions. The app provides instant SOS functionality, incident reporting, and role-based access control for students, security personnel, administrators, and super admins.
+CampusBuddy App is a Flutter-based mobile application designed to enhance security and emergency response within educational institutions. The app provides instant SOS functionality, incident reporting, and role-based access control for students, security personnel, administrators, and super admins.
 
 ## 👥 User Roles
 
